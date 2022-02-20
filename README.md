@@ -21,7 +21,7 @@ Si un mismo archivo se edita en dos ramas diferentes al momento del merge dará 
 # IGNORANDO ARCHIVOS
 
 crear en la raíz del proyecto un archivo .gitignore y dentro poner el nombre del archivo a ignorar, con su extensión.
-Ignorar carpetas --> ./nombre_carpeta
+- Ignorar carpetas --> ./nombre_carpeta
 
 # TRABAJANDO CON GITHUB
 
